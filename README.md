@@ -164,6 +164,7 @@
     5. **Metadata:** This can be used to add more data to an Angular class.
 
 6. ### What are directives?
+
     Directives add behaviour to an existing DOM element or an existing component instance.
     ```typescript
     import { Directive, ElementRef, Input } from '@angular/core';
@@ -268,7 +269,7 @@
     2. The declarations option is used to define components in the respective module
     3. The bootstrap option tells Angular which Component to bootstrap in the application
 
-11. ### What are lifecycle hooks available?
+11. ### What are lifecycle hooks available??
     Angular application goes through an entire set of processes or has a lifecycle right from its initiation to the end of the application.
     The representation of lifecycle in pictorial representation as follows,
     ![ScreenShot](images/lifecycle.png)
